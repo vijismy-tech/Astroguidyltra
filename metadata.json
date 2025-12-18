@@ -1,0 +1,7 @@
+{
+  "name": "Tamil Thirukanitha Panchangam",
+  "description": "A comprehensive Tamil Thirukanitha Panchangam application providing daily astrological insights for all 38 districts of Tamil Nadu and Pondicherry. Includes Tithi, Nakshatram, Yogam, Karanam, and auspicious timings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
